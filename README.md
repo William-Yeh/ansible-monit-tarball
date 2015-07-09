@@ -3,7 +3,9 @@ Tarballs for Ansible Monit
 
 [Monit](https://mmonit.com/monit/) is a great OSS utility for managing and monitoring Unix systems.
 
-However, Monit's official download site has too-restrictive rate-limit, and are usually inaccessible via some network routes.
+However, Monit's official download site has too-restrictive rate-limit, and are usually inaccessible via some network routes. For example, try to traceroute from Taipei (via hinet.net) to Stockholm:
+
+[![asciicast](https://asciinema.org/a/23204.png)](https://asciinema.org/a/23204)
 
 To make my Ansible role [williamyeh.monit](https://github.com/William-Yeh/ansible-monit) constantly workable, I copied tarballs from https://mmonit.com/monit/dist/binary/ to this GitHub repo (GitHub is much more reliable and available).  If you have security concerns, feel free to connect directly to official Monit download site.
 
