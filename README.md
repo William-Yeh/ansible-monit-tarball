@@ -7,10 +7,22 @@ However, Monit's official download site has too-restrictive rate-limit, and are 
 
 [![asciicast](https://asciinema.org/a/23204.png)](https://asciinema.org/a/23204)
 
-To make my Ansible role [williamyeh.monit](https://github.com/William-Yeh/ansible-monit) constantly workable, I copied tarballs from https://mmonit.com/monit/dist/binary/ to this GitHub repo (GitHub is much more reliable and available).  If you have security concerns, feel free to connect directly to official Monit download site.
+To make my Ansible role [williamyeh.monit](https://galaxy.ansible.com/williamyeh/monit/) constantly workable, I copied tarballs from https://mmonit.com/monit/dist/binary/ to this GitHub repo (GitHub is much more reliable and available).  If you have security concerns, feel free to connect directly to official Monit download site.
 
 
 ## Versions
+
+### 5.15
+
+- monit-5.15-linux-x64.tar.gz
+  SHA256: [`29427f7be313dee365312389cbb7ff774dfa21f7fe132d74858eda26c4b65e32`](https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x64.tar.gz.sha256)
+
+- monit-5.15-linux-x86.tar.gz
+  SHA256: [`2d6f653cd1fb46a9516b2f6714de977e77af17e74c56ec44c03d1674fb1b6671`](https://mmonit.com/monit/dist/binary/5.15/monit-5.15-linux-x86.tar.gz.sha256)
+
+- monit-5.15.tar.gz
+  SHA256: [`deada8153dc7e8755f572bc4d790143a92c7a8668dccb563ae4dbd73af56697c`](https://mmonit.com/monit/dist/monit-5.15.tar.gz.sha256)
+
 
 ### 5.14
 
