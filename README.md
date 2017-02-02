@@ -12,6 +12,19 @@ To make my Ansible role [williamyeh.monit](https://galaxy.ansible.com/williamyeh
 
 ## Versions
 
+
+### 5.20.0
+
+- monit-5.20.0-linux-x64.tar.gz
+  SHA256: [`96d2ead3654da833a3361adcc5afcbf736f2a641fa3baaac8506b5720595c1e5`](https://mmonit.com/monit/dist/binary/5.20.0/monit-5.20.0-linux-x64.tar.gz.sha256)
+
+- monit-5.20.0-linux-x86.tar.gz
+  SHA256: [`0aa6cd663eaee43ea9421c48e7011a3948033125ea0473ce91307caebd08526f`](https://mmonit.com/monit/dist/binary/5.20.0/monit-5.20.0-linux-x86.tar.gz.sha256)
+
+- monit-5.20.0.tar.gz
+  SHA256: [`ebac395ec50c1ae64d568db1260bc049d0e0e624c00e79d7b1b9a59c2679b98d`](https://mmonit.com/monit/dist/monit-5.20.0.tar.gz.sha256)
+
+
 ### 5.17.1
 
 - monit-5.17.1-linux-x64.tar.gz
